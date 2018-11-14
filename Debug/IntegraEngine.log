@@ -1,0 +1,8 @@
+﻿  Character.cpp
+  Game.cpp
+  InputHandler.cpp
+  Source.cpp
+  Generating Code...
+c:\users\rj-graphics\documents\res\integraengine\inputhandler.cpp(137): warning C4715: 'integra::managers::InputHandler::isNextSpaceValid': not all control paths return a value
+c:\users\rj-graphics\documents\res\integraengine\inputhandler.cpp(158): warning C4715: 'integra::managers::InputHandler::isCollidingWithGameObject': not all control paths return a value
+  IntegraEngine.vcxproj -> C:\Users\RJ-Graphics\Documents\res\IntegraEngine\Debug\IntegraEngine.exe
